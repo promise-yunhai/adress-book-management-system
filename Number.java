@@ -1,6 +1,6 @@
 package smis;
 
-public class Student {
+public class Number {
 	private String no,name,sex,birth,major,grade,phone;
 
 	public Student(String no, String name, String sex, String birth, String major, String grade, String phone) {
