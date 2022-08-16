@@ -79,7 +79,7 @@ public class Student {
 	}
 	
 	public static String getItem() {
-		return "学号\t姓名\t性别\t出生日期\t\t专业\t年级\t电话号码";
+		return "瀛﹀彿\t濮撳悕\t鎬у埆\t鍑虹敓鏃ユ湡\t\t涓撲笟\t骞寸骇\t鐢佃瘽鍙风爜";
 	}
 
 }
