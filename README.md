@@ -1,6 +1,6 @@
 # adress-book-management-system
 
-Java课程设计——学生信息管理系统
+Java——学生信息管理系统
 
 白嫖后记得Fork Star，以后白嫖不迷路
 
